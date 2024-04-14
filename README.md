@@ -39,6 +39,8 @@
   | English       | C1              |
   | German        | B1              |
   | Polish        | Native language |
+  <br>
 
-  
+  [![](https://img.shields.io/badge/linkedin-0a66c2)]([http://linkedin.com/in/ingridrosselis](https://www.linkedin.com/in/eliza-nierwi%C5%84ska-583385278/))
+  [![](https://img.shields.io/badge/blog-a0c172)](https://tech-blog-en.vercel.app/)
 </details>
