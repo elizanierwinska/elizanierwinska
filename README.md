@@ -22,7 +22,7 @@
   
 - 🌱 Know about my experiences [my resume](https://eliza-nierwinska.vercel.app/resume)
 
-<br><br><br>
+<br><br><br><br>
 
 ## My skills:
   
