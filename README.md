@@ -14,7 +14,7 @@
 
 - 📖 I’m currently learning **TypeScript**
   
-- 💻 I’m currently working on **Makeup artist's website**
+- 💻 I’m currently working on **Makeup artist website**
   
 - 👨‍💻 All of my projects are available at [Eliza's portfolio](https://eliza-nierwinska.vercel.app/)
   
