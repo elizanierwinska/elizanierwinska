@@ -7,7 +7,7 @@
 
   ## About me:
 
-  I am fascinated by how internet and computer works. Currently embarking on a journey to learn how to create aesthetically pleasing and easy to navigate websites.
+  I am fascinated by how the internet and computer works. Currently embarking on a journey to learn how to create aesthetically pleasing and easy to navigate websites.
   
   <img align="right" width="400" src="https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8193.jpg" />
   <br><br>
