@@ -12,9 +12,9 @@
   <img align="right" width="400" src="https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8193.jpg" />
   <br><br>
 
-- 📖 I’m currently learning **TypeScript**
+- 📖 I’m currently learning **Go**
   
-- 💻 I’m currently working on **Makeup artist website**
+- 💻 I’m currently working on **Boot.dev course**
   
 - 👨‍💻 All of my projects are available at [Eliza's portfolio](https://eliza-nierwinska.vercel.app/)
   
@@ -28,7 +28,7 @@
   
 ### **Programming languages:**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,ts,py" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,ts,py,go" />
 </a>
 
 
